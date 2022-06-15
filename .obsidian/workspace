@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "aa144acb0a13eec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c08111a1a0c4da",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68a2cfb991715c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb298891dc54b3fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "079252841c90fd85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "103fc8b8394db939",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8366a7f12e3ad1ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "1927b130e89addd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8582e27b68dc17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a89a3482a405d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf44a30c16546f40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a1b5498ff4f101d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a87adc225dfc45fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5c5b8c28a9a1022",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302
+  },
+  "active": "30c08111a1a0c4da",
+  "lastOpenFiles": [
+    "总览.md",
+    "2022-06-16.md",
+    "2022-6/2022-6-15 Rethinking and Improving Relative Position Encoding for Vision Transformer.md",
+    "imgs/Pasted image 20220616001552.png",
+    "imgs/Pasted image 20220616001848.png",
+    "imgs/Pasted image 20220616002014.png",
+    "2022-6/2022-06-09 Symbolic Graph Reasoning Meets Convolutions.md",
+    "2022-6-15.md",
+    "2022-6/2022-06-01 Graph-Based Global Reasoning Networks.md",
+    "2022-5/2022-05-31 Beyond Grids.md"
+  ]
+}
