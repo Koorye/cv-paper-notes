@@ -7,8 +7,12 @@
         "id": "30c08111a1a0c4da",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -83,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -100,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +138,7 @@
   },
   "active": "30c08111a1a0c4da",
   "lastOpenFiles": [
+    "README.md",
     "总览.md",
     "2022-06-16.md",
     "2022-6/2022-6-15 Rethinking and Improving Relative Position Encoding for Vision Transformer.md",
@@ -138,7 +147,6 @@
     "imgs/Pasted image 20220616002014.png",
     "2022-6/2022-06-09 Symbolic Graph Reasoning Meets Convolutions.md",
     "2022-6-15.md",
-    "2022-6/2022-06-01 Graph-Based Global Reasoning Networks.md",
-    "2022-5/2022-05-31 Beyond Grids.md"
+    "2022-6/2022-06-01 Graph-Based Global Reasoning Networks.md"
   ]
 }
